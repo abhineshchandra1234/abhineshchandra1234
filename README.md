@@ -7,10 +7,10 @@
 <img src="https://komarev.com/ghpvc/?username=OvinduWijethunge&color=brightgreen" alt="watching_count" />
  </p>
  <p align="center">
-<img src="https://img.shields.io/badge/Age-26-blue" />
-  <img src="https://img.shields.io/badge/Focus-Machine%20Learning-brightgreen" />
-  <img src="https://img.shields.io/badge/Lives-Sri%20Lanka-success" />
-  <img src="https://img.shields.io/badge/Languages-English%20%26%20Sinhala-brightgreen" />
+<img src="https://img.shields.io/badge/Age-24-blue" />
+  <img src="https://img.shields.io/badge/Focus-Software%20Engineering-brightgreen" />
+  <img src="https://img.shields.io/badge/Lives-India%20-success" />
+  <img src="https://img.shields.io/badge/Languages-English%20%26%20Hindi-brightgreen" />
 </p>
 <hr>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Abhinesh Chandra </h1>
@@ -31,7 +31,7 @@
   <em>
     Hello, I am Abhinesh Chandra currently <a href="https://uom.lk/"> <b>working as a Software Engineer(Android)</b>, at Infosys</a>. <br>
     <b>a passionate self-learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> &nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
-    with <b>software</b> and always looking to challenges and simplify things. 
+    with <b>software</b> and always looking for challenges and simplifying things. 
   </em> 
   <br>
   <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">Thought : "Be a kind and humble person, don't harm anyone.”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
