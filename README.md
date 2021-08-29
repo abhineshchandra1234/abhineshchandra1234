@@ -16,7 +16,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Abhinesh Chandra </h1>
 <h3 align="center">Software Engineer | Android Developer </h3>
 <p align="center">
-<a href="https://leetcode.com/abhineshchandra1234/" target="blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ALeetCode_logo_black.png&psig=AOvVaw394VVSdRWEVbTzHiAt9Zrf&ust=1630330436844000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCICAw6is1vICFQAAAAAdAAAAABAD" alt="leetcode_abhinesh" height="30" width="40" /></a>
+<a href="https://leetcode.com/abhineshchandra1234/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="leetcode_abhinesh" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/abhinesh-chandra-3b3157104" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174857.png" alt="lin_ovindu" height="30" width="40" /></a>  
 <a href="https://www.kaggle.com/ovinduwijethunge" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="kaggle_ovindu" height="30" width="40" /></a>
 <a href="https://www.instagram.com/ovindu_vesuvius/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174855.png" alt="insta_ovindu" height="30" width="40" /></a>
