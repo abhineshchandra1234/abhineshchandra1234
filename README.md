@@ -29,9 +29,9 @@
 
 <p align="center">
   <em>
-    Hello, I am Abhinesh Chandra currently <a href="https://uom.lk/"> <b>working as a Software Engineer(Android)</b>, at Infosys</a>. <br>
+    Hello, I am Abhinesh Chandra currently <a href="https://www.infosys.com/"> <b>working as a Software Engineer(Android)</b>, at Infosys</a>. <br>
     <b>a passionate self-learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> &nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
-    with <b>software</b> and always looking for challenges and simplifying things. 
+    with <b>software engineering</b> and always looking for challenges and simplifying things. 
   </em> 
   <br>
   <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">Thought : "Be a kind and humble person, don't harm anyone.”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
