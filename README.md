@@ -7,7 +7,7 @@ Android Developer
 I am a Software Engineer with 3 yrs exp. I have worked on apps for IoT applications and banking software.
 
 * 🌍  I'm based in Banglore
-* 🖥️  See my portfolio at [HashNode](http://abhinesh.hashnode.dev/)
+* 🖥️  See my portfolio at [Google dev](https://devlibrary.withgoogle.com/authors/abhineshchandra1234)
 * ✉️  You can contact me at [abhineshchandra1234@gmail.com](mailto:abhineshchandra1234@gmail.com)
 * 🧠  I'm learning Android, Kotlin, Java
 * ⚡  I'm secretly Superman... but don't tell anyone
